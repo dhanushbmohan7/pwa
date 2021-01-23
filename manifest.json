@@ -4,7 +4,7 @@
     "start_url":".",
     "background_color":"blue",
     "theme_color":"#009578",
-    "display":"standalone",
+    "display":"fullscreen",
     "icons":[
        {
         "src":"images/app64.png",
